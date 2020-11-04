@@ -1,0 +1,670 @@
+[
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_un_answer_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_un_answer_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_star_1.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_star_1.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_square.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_square.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_login_bg.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_login_bg.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_calendar.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_calendar.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_chat_bg_7.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_bg_7.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_music.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_music.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_index.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\activity_index.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_select_photo.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\dialog_select_photo.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_chat_p.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_p.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_shape_star_2.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-v24\\shape_star_2.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_login.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_shape_star_1.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-v24\\shape_star_1.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_search_user_item.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\layout_search_user_item.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_night_4.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_night_4.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_smile_2.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_smile_2.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_contact_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_contact_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_add.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_add.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_boy_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_boy_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_media_type.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_media_type.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_star_2.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_star_2.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_night_11.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_night_11.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_star_card_4.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_star_card_4.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_me_p.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_me_p.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_smile_9.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_smile_9.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_girl_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_girl_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_me_bg.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_me_bg.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_setting_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_setting_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_smile_3.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_smile_3.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable_upload_btn_bg.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable\\upload_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_menu_white.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_menu_white.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_chat_bg_4.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_bg_4.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_answer.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_answer.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_dial_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_dial_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_night_3.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_night_3.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_location.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_location.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_pager_guide_1.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\layout_pager_guide_1.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_private_setting.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_private_setting.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_tag_yes_bg.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_tag_yes_bg.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_push_music.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_push_music.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_back_white.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_back_white.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_star_3.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_star_3.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_chat_bg_3.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_bg_3.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable_guide_star_anim.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable\\guide_star_anim.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_code_view.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\dialog_code_view.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_square_music_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_square_music_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_star_6.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_star_6.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_night_6.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_night_6.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_music_audio_icon.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_music_audio_icon.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_smile_4.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_smile_4.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_first_upload.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\activity_first_upload.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_hf_p.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_hf_p.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_point.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_point.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_square_p.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_square_p.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_red_point.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_red_point.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_tag_bg.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_tag_bg.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_star_card_3.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_star_card_3.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_night_9.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_night_9.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_skip.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_skip.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable_login_edit_bg.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable\\login_edit_bg.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_music_play.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_music_play.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_night_1.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_night_1.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_camera_chat.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_camera_chat.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_img_girl_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-v24\\img_girl_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_chat_bg_2.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_bg_2.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_music_off.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_music_off.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_squaue_top.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_squaue_top.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_un_answer.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_un_answer.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_flashlight.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_flashlight.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_music_pause.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_music_pause.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_bmob_data.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_bmob_data.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_pic.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_pic.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_shape_star_3.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-v24\\shape_star_3.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_upload_photo_bg.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_upload_photo_bg.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_push_camera.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_push_camera.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_chat_bg_1.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_bg_1.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_pager_guide_3.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\layout_pager_guide_3.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_small.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_small.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_smile_1.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_smile_1.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_menu_video.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_menu_video.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_first_dialog.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_first_dialog.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_search_title_item.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\layout_search_title_item.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_hangup.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_hangup.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-v24\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_no.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_no.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_me.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\fragment_me.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_smile_6.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_smile_6.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_contact_friend.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\activity_contact_friend.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_recording.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_recording.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_night_7.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_night_7.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_flashlight_p.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_flashlight_p.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_push_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_push_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_start.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\fragment_start.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_star_card_1.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_star_card_1.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_star_icon_3.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_star_icon_3.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_test_login.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\activity_test_login.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_not_data.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_not_data.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_point_p.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_point_p.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_guide.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_star.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_star.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_push_ablum.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_push_ablum.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_right_arrow.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_right_arrow.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable_login_btn_bg.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable\\login_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_first_upload.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\dialog_first_upload.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_smile_7.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_smile_7.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_chat_bg_5.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_bg_5.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_chat.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_download.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_download.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_camera.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_camera.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_error.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_error.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_search.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_search.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_star_5.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_star_5.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_menu_audio.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_menu_audio.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_yes.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_yes.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_star_p.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_star_p.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_smile_8.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_smile_8.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_login_yes.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_login_yes.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_voice_line_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_voice_line_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_go.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_go.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_night_10.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_night_10.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_user_info_bg.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_user_info_bg.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_night_2.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_night_2.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_calling_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_calling_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_square.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\fragment_square.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_recording_p.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_recording_p.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_fragment_chat.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_me.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_me.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_enter.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_enter.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_user_info_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_user_info_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_empty_view.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\layout_empty_view.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_voice.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_voice.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_chat_bg_6.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_bg_6.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_layout_pager_guide_2.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\layout_pager_guide_2.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_tag_no_bg.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_tag_no_bg.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_shape_star_4.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-v24\\shape_star_4.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\xml_filepaths.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\xml\\filepaths.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_add_friend.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\layout\\activity_add_friend.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable_guide_night_anim.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable\\guide_night_anim.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_share_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_share_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\xml_network_security_config.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_hf.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_hf.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_back_black.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_back_black.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_img_boy_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-v24\\img_boy_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_smile_5.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_smile_5.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_star_4.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_star_4.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_chat_bg_9.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_bg_9.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_menu_black.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_menu_black.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_star_card_2.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_star_card_2.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_night_5.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_night_5.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_new_firend_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_new_firend_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\raw_dpct.mp3.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\raw\\dpct.mp3"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_answer_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_answer_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_night_8.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_night_8.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_chat_bg_8.webp.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_chat_bg_8.webp"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_guide_star_7.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_guide_star_7.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable_guide_smile_anim.xml.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable\\guide_smile_anim.xml"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_push_video.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_push_video.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_sex_icon.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_sex_icon.png"
+    },
+    {
+        "merged": "D:\\professional6\\meet\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_img_dial.png.flat",
+        "source": "D:\\professional6\\meet\\app\\src\\main\\res\\drawable-xxhdpi\\img_dial.png"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CallLib/CallLib.iml" filepath="$PROJECT_DIR$/CallLib/CallLib.iml" group="meet/CallLib" />
+      <module fileurl="file://$PROJECT_DIR$/IMLib/IMLib.iml" filepath="$PROJECT_DIR$/IMLib/IMLib.iml" group="meet/IMLib" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="meet/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/framewoek/framewoek.iml" filepath="$PROJECT_DIR$/app/framewoek/framewoek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework/framework.iml" filepath="$PROJECT_DIR$/framework/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework2/framework2.iml" filepath="$PROJECT_DIR$/framework2/framework2.iml" group="meet/framework2" />
+      <module fileurl="file://$PROJECT_DIR$/meet.iml" filepath="$PROJECT_DIR$/meet.iml" group="meet" />
+    </modules>
+  </component>
+</project>

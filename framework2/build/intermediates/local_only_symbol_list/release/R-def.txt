@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+drawable icon_message
+drawable img_bg
+drawable img_glide_load_error
+drawable img_glide_load_ing
+drawable img_loding
+drawable img_null_card
+drawable img_star_icon_3
+drawable shape_loding_bg
+id iv_loding
+id iv_star_icon
+id tv_loding_text
+id tv_star_name
+layout dialog_loding
+layout layout_star_view_item
+style Theme_Dialog

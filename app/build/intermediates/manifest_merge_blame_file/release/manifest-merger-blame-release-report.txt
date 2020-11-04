@@ -1,0 +1,266 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cx.meet"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->D:\professional6\meet\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\professional6\meet\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->D:\professional6\meet\app\src\main\AndroidManifest.xml:6:5-80
+11-->D:\professional6\meet\app\src\main\AndroidManifest.xml:6:22-77
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\professional6\meet\app\src\main\AndroidManifest.xml:7:5-67
+12-->D:\professional6\meet\app\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->D:\professional6\meet\app\src\main\AndroidManifest.xml:8:5-79
+13-->D:\professional6\meet\app\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->D:\professional6\meet\app\src\main\AndroidManifest.xml:9:5-76
+14-->D:\professional6\meet\app\src\main\AndroidManifest.xml:9:22-73
+15    <uses-permission android:name="android.permission.WAKE_LOCK" />
+15-->D:\professional6\meet\app\src\main\AndroidManifest.xml:10:5-68
+15-->D:\professional6\meet\app\src\main\AndroidManifest.xml:10:22-65
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->D:\professional6\meet\app\src\main\AndroidManifest.xml:11:5-81
+16-->D:\professional6\meet\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+17-->D:\professional6\meet\app\src\main\AndroidManifest.xml:12:5-75
+17-->D:\professional6\meet\app\src\main\AndroidManifest.xml:12:22-72
+18    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+18-->D:\professional6\meet\app\src\main\AndroidManifest.xml:13:5-77
+18-->D:\professional6\meet\app\src\main\AndroidManifest.xml:13:22-75
+19    <uses-permission android:name="android.permission.READ_CONTACTS" />
+19-->D:\professional6\meet\app\src\main\AndroidManifest.xml:14:5-71
+19-->D:\professional6\meet\app\src\main\AndroidManifest.xml:14:22-69
+20    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+20-->D:\professional6\meet\app\src\main\AndroidManifest.xml:15:5-81
+20-->D:\professional6\meet\app\src\main\AndroidManifest.xml:15:22-78
+21    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+21-->D:\professional6\meet\app\src\main\AndroidManifest.xml:16:5-70
+21-->D:\professional6\meet\app\src\main\AndroidManifest.xml:16:22-68
+22    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+22-->D:\professional6\meet\app\src\main\AndroidManifest.xml:17:5-78
+22-->D:\professional6\meet\app\src\main\AndroidManifest.xml:17:22-76
+23    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+23-->D:\professional6\meet\app\src\main\AndroidManifest.xml:18:5-78
+23-->D:\professional6\meet\app\src\main\AndroidManifest.xml:18:22-76
+24    <uses-permission android:name="android.permission.VIBRATE" />
+24-->D:\professional6\meet\app\src\main\AndroidManifest.xml:19:5-65
+24-->D:\professional6\meet\app\src\main\AndroidManifest.xml:19:22-63
+25    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+25-->D:\professional6\meet\app\src\main\AndroidManifest.xml:20:5-82
+25-->D:\professional6\meet\app\src\main\AndroidManifest.xml:20:22-80
+26    <uses-permission android:name="android.permission.CALL_PHONE" />
+26-->D:\professional6\meet\app\src\main\AndroidManifest.xml:21:5-68
+26-->D:\professional6\meet\app\src\main\AndroidManifest.xml:21:22-66
+27
+28    <!-- 在SDCard中创建与删除文件的权限 -->
+29    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" /> <!-- <uses-permission android:name="android.permission.CAMERA"/> -->
+29-->[:framework2] D:\professional6\meet\framework2\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:47
+29-->[:framework2] D:\professional6\meet\framework2\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-68
+30    <application
+30-->D:\professional6\meet\app\src\main\AndroidManifest.xml:23:5-91:19
+31        android:name="com.cx.meet.base.BaseApp"
+31-->D:\professional6\meet\app\src\main\AndroidManifest.xml:27:9-37
+32        android:allowBackup="true"
+32-->D:\professional6\meet\app\src\main\AndroidManifest.xml:28:9-35
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.3.1] C:\Users\11947\.gradle\caches\transforms-2\files-2.1\bb39ea0a726041ab478566c42daa0a7a\core-1.3.1\AndroidManifest.xml:24:18-86
+34        android:extractNativeLibs="false"
+35        android:icon="@mipmap/ic_launcher"
+35-->D:\professional6\meet\app\src\main\AndroidManifest.xml:29:9-43
+36        android:label="遇见"
+36-->D:\professional6\meet\app\src\main\AndroidManifest.xml:30:9-27
+37        android:networkSecurityConfig="@xml/network_security_config"
+37-->D:\professional6\meet\app\src\main\AndroidManifest.xml:26:9-69
+38        android:requestLegacyExternalStorage="true"
+38-->D:\professional6\meet\app\src\main\AndroidManifest.xml:25:9-52
+39        android:roundIcon="@mipmap/ic_launcher"
+39-->D:\professional6\meet\app\src\main\AndroidManifest.xml:31:9-48
+40        android:supportsRtl="true"
+40-->D:\professional6\meet\app\src\main\AndroidManifest.xml:32:9-35
+41        android:theme="@style/AppTheme"
+41-->D:\professional6\meet\app\src\main\AndroidManifest.xml:33:9-40
+42        android:usesCleartextTraffic="true" >
+42-->D:\professional6\meet\app\src\main\AndroidManifest.xml:24:9-44
+43        <activity android:name="com.cx.meet.ui.FirstUploadActivity" />
+43-->D:\professional6\meet\app\src\main\AndroidManifest.xml:35:9-69
+43-->D:\professional6\meet\app\src\main\AndroidManifest.xml:35:19-57
+44        <activity android:name="com.cx.meet.ui.TestLoginActivity" />
+44-->D:\professional6\meet\app\src\main\AndroidManifest.xml:37:9-58
+44-->D:\professional6\meet\app\src\main\AndroidManifest.xml:37:19-55
+45        <activity
+45-->D:\professional6\meet\app\src\main\AndroidManifest.xml:39:9-47:20
+46            android:name="com.cx.meet.MainActivity"
+46-->D:\professional6\meet\app\src\main\AndroidManifest.xml:40:13-41
+47            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+47-->D:\professional6\meet\app\src\main\AndroidManifest.xml:41:13-69
+48            <intent-filter>
+48-->D:\professional6\meet\app\src\main\AndroidManifest.xml:42:13-46:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->D:\professional6\meet\app\src\main\AndroidManifest.xml:43:17-69
+49-->D:\professional6\meet\app\src\main\AndroidManifest.xml:43:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->D:\professional6\meet\app\src\main\AndroidManifest.xml:45:17-77
+51-->D:\professional6\meet\app\src\main\AndroidManifest.xml:45:27-74
+52            </intent-filter>
+53        </activity> <!-- OPPO -->
+54        <activity android:name="com.cx.meet.ui.GuideActivity" /> <!-- 小米适配 -->
+54-->D:\professional6\meet\app\src\main\AndroidManifest.xml:48:9-54
+54-->D:\professional6\meet\app\src\main\AndroidManifest.xml:48:19-51
+55        <activity android:name="com.cx.meet.ui.LoginActivity" />
+55-->D:\professional6\meet\app\src\main\AndroidManifest.xml:49:9-54
+55-->D:\professional6\meet\app\src\main\AndroidManifest.xml:49:19-51
+56        <activity android:name="com.cx.meet.ui.ContactFirendActivity" />
+56-->D:\professional6\meet\app\src\main\AndroidManifest.xml:50:9-71
+56-->D:\professional6\meet\app\src\main\AndroidManifest.xml:50:19-59
+57        <activity android:name="com.cx.meet.ui.AddFriendActivity" />
+57-->D:\professional6\meet\app\src\main\AndroidManifest.xml:51:9-67
+57-->D:\professional6\meet\app\src\main\AndroidManifest.xml:51:19-55
+58        <activity
+58-->D:\professional6\meet\app\src\main\AndroidManifest.xml:52:9-56:20
+59            android:name="com.cx.meet.ui.IndexActivity"
+59-->D:\professional6\meet\app\src\main\AndroidManifest.xml:53:13-45
+60            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+60-->D:\professional6\meet\app\src\main\AndroidManifest.xml:54:13-69
+61        </activity>
+62
+63        <meta-data
+63-->D:\professional6\meet\app\src\main\AndroidManifest.xml:57:9-59:35
+64            android:name="android.max_aspect"
+64-->D:\professional6\meet\app\src\main\AndroidManifest.xml:58:13-46
+65            android:value="2.2" />
+65-->D:\professional6\meet\app\src\main\AndroidManifest.xml:59:13-32
+66        <meta-data
+66-->D:\professional6\meet\app\src\main\AndroidManifest.xml:61:9-63:50
+67            android:name="notch.config"
+67-->D:\professional6\meet\app\src\main\AndroidManifest.xml:62:13-40
+68            android:value="portrait|landscape" />
+68-->D:\professional6\meet\app\src\main\AndroidManifest.xml:63:13-47
+69
+70        <provider
+70-->D:\professional6\meet\app\src\main\AndroidManifest.xml:64:9-66:78
+71            android:name="cn.bmob.v3.util.BmobContentProvider"
+71-->D:\professional6\meet\app\src\main\AndroidManifest.xml:65:13-63
+72            android:authorities="com.cx.meet.BmobContentProvider" />
+72-->D:\professional6\meet\app\src\main\AndroidManifest.xml:66:13-66
+73
+74        <!-- tools:replace="android:authorities" -->
+75        <!-- tools:replace="android:resource" -->
+76        <provider
+76-->D:\professional6\meet\app\src\main\AndroidManifest.xml:69:9-76:20
+77            android:name="androidx.core.content.FileProvider"
+77-->D:\professional6\meet\app\src\main\AndroidManifest.xml:70:13-62
+78            android:authorities="com.cx.meet"
+78-->D:\professional6\meet\app\src\main\AndroidManifest.xml:71:13-46
+79            android:grantUriPermissions="true" >
+79-->D:\professional6\meet\app\src\main\AndroidManifest.xml:72:13-47
+80            <meta-data
+80-->D:\professional6\meet\app\src\main\AndroidManifest.xml:73:13-75:52
+81                android:name="android.support.FILE_PROVIDER_PATHS"
+81-->D:\professional6\meet\app\src\main\AndroidManifest.xml:74:17-67
+82                android:resource="@xml/filepaths" />
+82-->D:\professional6\meet\app\src\main\AndroidManifest.xml:75:17-50
+83        </provider>
+84
+85        <!-- 离线消息 -->
+86        <receiver
+86-->D:\professional6\meet\app\src\main\AndroidManifest.xml:80:9-88:20
+87            android:name="com.cx.meet.receiver.SealNotificationReceiver"
+87-->D:\professional6\meet\app\src\main\AndroidManifest.xml:81:13-62
+88            android:exported="true" >
+88-->D:\professional6\meet\app\src\main\AndroidManifest.xml:82:13-36
+89            <intent-filter>
+89-->D:\professional6\meet\app\src\main\AndroidManifest.xml:83:13-87:29
+90                <action android:name="io.rong.push.intent.MESSAGE_ARRIVED" />
+90-->D:\professional6\meet\app\src\main\AndroidManifest.xml:84:17-78
+90-->D:\professional6\meet\app\src\main\AndroidManifest.xml:84:25-75
+91                <action android:name="io.rong.push.intent.MESSAGE_CLICKED" />
+91-->D:\professional6\meet\app\src\main\AndroidManifest.xml:85:17-78
+91-->D:\professional6\meet\app\src\main\AndroidManifest.xml:85:25-75
+92                <action android:name="io.rong.push.intent.THIRD_PARTY_PUSH_STATE" />
+92-->D:\professional6\meet\app\src\main\AndroidManifest.xml:86:17-85
+92-->D:\professional6\meet\app\src\main\AndroidManifest.xml:86:25-82
+93            </intent-filter>
+94        </receiver>
+95
+96        <!-- imlib config begin -->
+97        <meta-data
+97-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-27:45
+98            android:name="RONG_CLOUD_APP_KEY"
+98-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:26:13-46
+99            android:value="3argexb63s30e" />
+99-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:27:13-42
+100
+101        <service
+101-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:29:9-32:38
+102            android:name="io.rong.imlib.ipc.RongService"
+102-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-57
+103            android:exported="true"
+103-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-36
+104            android:process=":ipc" />
+104-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-35
+105
+106        <receiver
+106-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:34:9-36:39
+107            android:name="io.rong.imlib.ConnectChangeReceiver"
+107-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-63
+108            android:exported="true" />
+108-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-36
+109        <receiver
+109-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:37:9-39:38
+110            android:name="io.rong.imlib.HeartbeatReceiver"
+110-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-59
+111            android:process=":ipc" /> <!-- imlib config end -->
+111-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-35
+112        <!-- 必选： SDK 核心功能 -->
+113        <service
+113-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:44:9-48:46
+114            android:name="io.rong.push.rongpush.PushService"
+114-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-61
+115            android:exported="true"
+115-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:46:13-36
+116            android:permission="android.permission.BIND_JOB_SERVICE"
+116-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:47:13-69
+117            android:process="io.rong.push" /> <!-- push 相关事件接收器 -->
+117-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-43
+118        <receiver
+118-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:51:9-66:20
+119            android:name="io.rong.push.rongpush.PushReceiver"
+119-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-62
+120            android:process="io.rong.push" > <!-- 此处进程可以改名，名称需要和PushService所在进程统一 -->
+120-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:53:13-43
+121            <!-- 心跳事件和网络切换事件监听,必须 -->
+122            <intent-filter>
+122-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-58:29
+123                <action android:name="io.rong.push.intent.action.HEART_BEAT" />
+123-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:56:17-80
+123-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:56:25-77
+124                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+124-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:57:17-79
+124-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:57:25-76
+125            </intent-filter>
+126
+127            <!-- 部分用户事件监听, 用来提高推送拉活率; 可移除 -->
+128            <intent-filter>
+128-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-65:29
+129                <action android:name="android.intent.action.USER_PRESENT" />
+129-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:62:17-77
+129-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:62:25-74
+130                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+130-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:63:17-87
+130-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:63:25-84
+131                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+131-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:64:17-90
+131-->[:IMLib] D:\professional6\meet\IMLib\build\intermediates\library_manifest\release\AndroidManifest.xml:64:25-87
+132            </intent-filter>
+133        </receiver>
+134    </application>
+135
+136</manifest>

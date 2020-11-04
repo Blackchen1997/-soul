@@ -1,0 +1,4 @@
+#Mon Oct 26 10:09:29 GMT+08:00 2020
+base.0=D\:\\professional6\\meet\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
